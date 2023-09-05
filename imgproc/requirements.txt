@@ -1,0 +1,6 @@
+pip install opencv-python
+pip install opencv-contrib-python
+pip install dlib
+pip install face-recognition
+
+
